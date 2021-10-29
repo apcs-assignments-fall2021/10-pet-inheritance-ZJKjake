@@ -45,6 +45,7 @@ public class Student extends Person {
 
     // Setters
     public void setClassYear(int classYear) {
+
         this.classYear = classYear;
     }
 }
